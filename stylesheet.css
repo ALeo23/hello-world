@@ -1,0 +1,55 @@
+body {
+  background: #ff4b1f; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to left, #ff4b1f , #1fddff); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to left, #ff4b1f , #1fddff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+header {
+  text-align: center;
+  border-bottom: 5px solid black;
+  padding-bottom: 50px;
+  color: #9966CC;
+}
+
+
+.container {
+  padding-top: 100px;
+  padding-bottom: 600px;
+}
+
+#counter {
+  text-align: center;
+  font-size: 24px;
+  color: maroon;
+}
+
+#list {
+  list-style-type: none;
+}
+
+#new-task {
+  width: 300px;
+}
+
+.motivate {
+  background-color: #00FF7F
+}
+
+.task {
+background: #FAEBD7;
+border-radius: 5px;
+border: 2px solid black;
+margin: 3px;
+padding: 0.5em;
+height: 70px;
+font-family: Verdana, Arial, Sans-Serif;
+font-size: 16px;
+}
+
+
+
+footer {
+  height: 50px;
+  bottom: 0;
+  left: 0;
+}
